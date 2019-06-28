@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MainWindow">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAgAAAAAAFAAgAAAkAAQAIwAAAAEAMAAI=</HashCode>
+      <FileName>MainWindow.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAgAAAAAAAAAAAAAAACAAABgAQAAAAA=</HashCode>
+      <FileName>Player.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAgABAABAAAAAAAAAAAAIAABAAAgAIAAAAAEAIAAA=</HashCode>
+      <FileName>Scene.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScene">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuScene.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScene">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameScene.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AboutScene">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutScene.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoScene">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoScene.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Mode">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Mode.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
